@@ -11,7 +11,7 @@
         },
         "sonarqubeImageVersion": {
             "type": "string",
-            "defaultValue": "7.7-community",
+            "defaultValue": "latest",
             "allowedValues": [
                 "7.7-community",
                 "7.6-community",
